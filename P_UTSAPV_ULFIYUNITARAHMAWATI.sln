@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "P_UTSAPV_ULFIYUNITARAHMAWATI", "P_UTSAPV_ULFIYUNITARAHMAWATI\P_UTSAPV_ULFIYUNITARAHMAWATI.vbproj", "{DD8081E1-8E9B-43B5-A067-D92D2C3F5630}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD8081E1-8E9B-43B5-A067-D92D2C3F5630}.Debug|x86.ActiveCfg = Debug|x86
+		{DD8081E1-8E9B-43B5-A067-D92D2C3F5630}.Debug|x86.Build.0 = Debug|x86
+		{DD8081E1-8E9B-43B5-A067-D92D2C3F5630}.Release|x86.ActiveCfg = Release|x86
+		{DD8081E1-8E9B-43B5-A067-D92D2C3F5630}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
